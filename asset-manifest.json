@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.92a68437.css",
-    "main.js": "./static/js/main.4c58f730.js",
+    "main.css": "./static/css/main.492fd1f5.css",
+    "main.js": "./static/js/main.b9a0b41e.js",
     "service-worker.js": "./service-worker.js",
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.92a68437.css",
-    "static/js/main.4c58f730.js"
+    "static/css/main.492fd1f5.css",
+    "static/js/main.b9a0b41e.js"
   ]
 }
